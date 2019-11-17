@@ -3,6 +3,24 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+#zip
+*.zip
+
+#venv bin
+bin/
+
+#selenium
+selenium/
+selenium-server-standalone*
+
+#re??
+re
+
+#pip-self-check
+pip-selfcheck.json
+
+
 # C extensions
 *.so
 
